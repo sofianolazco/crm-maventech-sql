@@ -50,6 +50,22 @@ El proyecto simula el rol de Analista de Datos dentro del equipo del **Gerente M
 
 ---
 
+## 📸 Resultados destacados
+
+### Tabla de desempeño por agente
+*Consolida en una sola query: conversión, ventas ganadas, valor total, promedio y % con descuento*
+![Tabla resumen por agente](imagenes/tabla-agentes.png)
+
+### Comparación entre trimestres y equipos
+*Q4 2017 vs Q3 2017 vs promedio de todos los equipos — en una sola fila usando CTEs*
+![Comparación entre trimestres](imagenes/comparacion-trimestres.png)
+
+### Ventas y conversión por producto
+*Ranking de productos por valor total de ventas y tasa de conversión*
+![Ventas por producto](imagenes/ventas-por-producto.png)
+
+---
+
 ## 📁 Estructura del dataset
 
 | Tabla | Descripción |
