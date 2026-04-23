@@ -114,7 +114,7 @@ CROSS JOIN all_team_avg
 
 ## 🔗 Acceso al proyecto
 
-👉 [Ver código SQL completo](./crm-maventech-analisis.sql)  
+👉 [Ver código SQL completo](https://drive.google.com/file/d/1oyLvxWoi9wJHJwVlYcMzOLzTid1Si2G1/view?usp=sharing)  
 👉 [Ver caso original en Maven Analytics](https://mavenshowcase.com/project/14140)
 
 ---
